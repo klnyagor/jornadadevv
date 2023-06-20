@@ -1,3 +1,15 @@
+# Jornada FULL STACK: Criando um clone do TikTok!
+> Projeto promovido por <a href="https://ebaconline.com.br/" target="_blank"> EBAC </a>
+>
+> Palestrantes: 
+> * Paulo Santos
+> * Pedro Brocaldi
+> 
+> Para ver meu projeto online <a href="https://klnyagor-jornadadev.web.app" target="_blank"> Clique aqui </a>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
